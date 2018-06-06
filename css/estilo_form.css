@@ -1,0 +1,59 @@
+.background {
+
+    background-color: #101010;
+    background-position:center;
+    background-size: 110%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: -5px;
+    text-overflow: inherit;
+    text-align: center;
+    color: #C2CFD1;
+    }
+
+    .background h1{
+ 
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: -5px;
+        text-overflow: inherit;
+        text-align: center;
+        color: #C2CFD1;
+        }
+
+.select {
+
+    font-size: 2em;
+    border-color: cornflowerblue;
+    
+}
+
+
+form, input [placeholder]{
+    padding-left:50px;;
+    margin-left: 12em;
+    border: 5em;
+    font-size: 22px;
+    text-align: right;
+   align-self: flex-end;
+    size: 10em;
+}
+form, a [placeholder]{
+    padding-right: 11em;
+    margin-left: 2em;
+    border: 1em;
+    font-size: 22px;
+    text-align: left;
+    margin: 0.5em;
+    size: 10em;
+}
+
+form, hr {
+   border-color: #D2DEDE;
+}
+
+form, input["file"]{
+    padding: 10px;
+
+}
+
